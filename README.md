@@ -2,7 +2,7 @@
 We present a conceptual model  explaining the source of maximal parity violation in weak interactions.
 # Hypothesis of the Geometric Source of Chirality
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17535846.svg)](https://doi.org/10.5281/zenodo.17535846)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17535846-blue.svg)](https://doi.org/10.5281/zenodo.17535846)
 
 ## Abstract
 This philosophical-speculative essay presents a conceptual model explaining the source of maximal parity violation in weak interactions. We postulate that the observed chirality of the Universe emerges from a fundamental geometric asymmetry of spacetime itself within the p-gluon framework.
